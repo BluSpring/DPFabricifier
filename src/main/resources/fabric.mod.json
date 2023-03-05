@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "id": "%s",
+  "version": "1.0.0",
+  "name": "%s",
+  "description": "Automatically generated using DPFabricifier.",
+  "icon": "pack.png"
+}
